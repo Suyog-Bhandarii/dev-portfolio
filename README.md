@@ -20,7 +20,7 @@ A personal portfolio website built with Django, HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
-
+  
 ## Run Locally
 
 ```bash
@@ -30,5 +30,6 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 Open http://127.0.0.1:8000/ in your browser.
-License
+
+##License
 For personal and educational use.
